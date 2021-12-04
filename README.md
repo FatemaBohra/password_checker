@@ -1,2 +1,2 @@
 # password_checker
-Check your in secure ways now!!!
+Check your passwords in a secure way now!!!
